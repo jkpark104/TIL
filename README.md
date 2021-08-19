@@ -47,3 +47,20 @@ Today I Learned
 1. `<time>` 태그
 
 ### 20210817
+1. WAI-ARIA의 요소
+1. MDN
+1. flex-flow
+1. map / area 태그
+1. CSS Sprite
+1. aria-controls | aria-autocomplete
+
+### 21210818
+1. strong | em
+1. CSS 카운터 사용하기
+1. attr 함수
+1. 화면 중앙 맞추기
+1. IR 기법 (Image Replacement)
+1. q | blockquote | cite 태그
+1. small | address 태그
+1. wrod-spacing
+1. 반응형 VS 적응형
