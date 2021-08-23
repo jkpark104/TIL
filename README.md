@@ -62,5 +62,32 @@ Today I Learned
 1. IR 기법 (Image Replacement)
 1. q | blockquote | cite 태그
 1. small | address 태그
-1. wrod-spacing
+1. word-spacing
 1. 반응형 VS 적응형
+
+### 20210819
+1. :root
+1. common responsive breakpoints
+1. flex-basis
+1. max-width : 100% VS width : 100%
+1. srcset | sizes 속성
+1. figure | source | picture 태그
+1. video | track 태그
+1. iframe 태그
+1. aspect-ratio
+1. user-select
+
+
+### 20210820
+1. bem | oocss | smacss
+1. hidden
+1. aria-haspopup | aria-expanded
+1. column-count
+1. row-gap(grid-row-gap) | column-gap | gap
+1. position : sticky
+1. z-index가 동작하지 않을 때
+1. backdrop-filter
+1. float으로 멀티 칼럼 만들기
+
+### 20210823
+1. 
