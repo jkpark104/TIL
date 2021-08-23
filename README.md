@@ -90,4 +90,6 @@ Today I Learned
 1. float으로 멀티 칼럼 만들기
 
 ### 20210823
-1. 
+1. curosr : not-allowed
+1. :not(selector)
+1. 속성 선택자
