@@ -93,3 +93,10 @@ Today I Learned
 1. curosr : not-allowed
 1. :not(selector)
 1. 속성 선택자
+
+### 20210824
+1. `@mixin respond-aboeve($breakpoint)`
+1. `@mixin mobile`
+1. `a + inline + padding` vs `a + inline-block + padding`
+1. grid
+1. repeat
